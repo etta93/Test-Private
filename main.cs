@@ -9,7 +9,7 @@ public class Hello3
          args.Length );
       for (int i=0; i < args.Length; i++)
       {
-         Console.WriteLine("{0}", args[i]); 
+         Console.Write("{0}", args[i]); 
       }
    }
 }
